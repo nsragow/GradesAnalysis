@@ -25,11 +25,12 @@ We will start with a given hypothesis, and create three others on our own.
 3. Do STEM fields have a statistically significant difference in the number of As earned when compared to the humanities?
 
 # Todo
+## Steps
 1. (Engineer/ETL) AND (Proper Experimental Design)
 2. (Select Audience)
 3. Accept/Reject (Hyp. 1, Hyp. 2) AND (Hyp. 3, Hyp. 4)
 4. Presentations (Jupyter) AND (README) AND (Slides)
-
+## Work Split/Schedule
 1. Noah _ MaryJo       ( Thursday  )    
 2. Noah/MaryJo         ( Friday_AM )
 3. Noah _ MaryJo       ( Friday_PM )
