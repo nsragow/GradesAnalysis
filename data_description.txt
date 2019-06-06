@@ -1,0 +1,68 @@
+course_offerings
+
+Courses are offered during particular semesters and this
+table reflects that information. It associated a course
+with what semesters that course was offered.
+
+-----
+
+courses
+
+All courses offered at UW Madison since 2006.
+
+-----
+
+grade_distribution
+
+Grade distributions for a particular section of a course
+offering. Each count column is the number of students
+who received that grade. The average GPA for the section
+can be calculated, as described by the UW Madison registrar.
+
+-----
+
+instructors
+
+Instructor ids and names.
+
+-----
+
+rooms
+
+All rooms that held course sections.
+
+-----
+
+schedules
+
+All possible schedules that sections have. Boolean fields
+indicate whether or not they meet on that particular weekday.
+
+-----
+
+sections
+
+All sections offered by courses for every semester since 2006.
+
+-----
+
+subject_memberships
+
+Courses are offered through particular subjects, and this can
+differ each semester/term. This describes which subjects a
+course offering belonged to.
+
+-----
+
+subjects
+
+All subjects reported at UW Madison since 2006.
+Some duplicates may appear to exist, but this is a result of changes
+in subject names or codes (i.e. English has code 350, and 352).
+
+-----
+
+teachings
+
+Each section is taught by any number of instructors. This describes
+which instructors taught which sections.
