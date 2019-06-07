@@ -1,0 +1,8 @@
+course:
+  name
+  subject
+  when
+grades:
+  results per term per course
+
+  

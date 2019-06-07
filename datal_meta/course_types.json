@@ -1,0 +1,8 @@
+{
+  "LEC" : "lecture",
+  "IND" : "independant_study",
+  "DIS" : "discussion",
+  "LAB" : "lab",
+  "FLD" : "field_study",
+  "SEM" : "seminar"
+}

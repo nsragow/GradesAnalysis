@@ -1,0 +1,134 @@
+AGE
+The age of a student as of first day of the reporting term.
+
+ATTENDANCE STATUS
+A description of a student’s credit load for the term.
+
+BACHELORS DEGREE
+The award designating the completion of an academic program requiring four to five years of full-time equivalent preparation.
+
+CAREER
+A students general academic program. (Undergraduate, Graduate, Professional or Special)
+
+CONTINUING STUDENT
+A student continuing from the previous semester at the same institution at the same program level.
+
+CURRENT ENTRANCE STATUS
+A term describing a student’s enrollment status at the beginning of a term relative to their status during the preceding term.
+
+CREDITS CARRIED
+The number of official credits for which a student is enrolled as of the 10th day of the semester.
+
+DEGREES CONFERRED
+The number of degrees awarded during a fiscal year (July 1-June 30).
+
+DISSERTATOR
+A post-prelim Ph.D Student.
+
+DOCTORAL DEGREE
+A Ph.D. or other award designating the completion of advanced graduate study (beyond that required of a Masters degree).
+
+MINORITY
+A student who has indicated an ethnic status of Afro-American, Asian-American, Native American or Hispanic American and is a citizen of the United States or has permanent immigrant or refugee status.
+
+ETHNIC STATUS
+A student’s self-reported race/ethnicity at the time of enrollment. International students are classified as a group regardless of race.
+
+FEE ASSESSMENT STATUS
+A student’s resident status for fee purposes. A student is designated as a Wisconsin resident, or a non-resident. Minnesota reciprocity students are non-residents.
+
+FIRST YEAR/NEW FRESHMEN
+A degree-seeking undergraduate enrolling for the first time at UW-Madison who is not transferring credits from any other institution. All new degree-seeking undergraduate students, whether or not they are freshmen by level/credits, are called first year. On reports with level and entrance status, the sum of new freshmen, new sophomores, new juniors, and new seniors will equal the new freshman total on other reports.
+
+FIRST YEAR/PROFESSIONAL
+A student working towards a professional degree that is doing first year course work.
+
+FOURTH YEAR STUDENT
+A student working towards a professional degree that has successfully completed all third year course work.
+
+FRESHMEN STUDENT
+An undergraduate student who has less than 24 progress credits.
+
+FULL TIME EQUIVALENT (FTE)
+A calculation equal to the sum of credits carried divided by a divisor dependent on the student’s classification. The divisor is 15 for undergrads, undergrad specials, law, and pharmacy students. The divisor is 12 for masters, education specialist, and graduate special students. The divisor is 7 for Ph.D. students. All medical and veterinary students are counted as one FTE.
+
+FULL-TIME/PART-TIME STATUS
+A description of a student’s credit load for the term. Full-time undergraduate, undergraduate special, law, veterinary and pharmacy students have 12 or more credits. Full time medical students have 9 or more credits. Full-time masters, education specialist, and graduate specials have 8 or more credits. Full-time pre-prelim Ph.D. students have 8 or more credits and full-time post-prelim Ph.D. students have 1 or more credits.
+
+GENDER
+The sex, either male or female, of a student.
+
+GRADUATE STUDENT
+A student seeking a graduate degree (Masters, Education Specialist, or Ph.D.)
+
+GRADUATE DEGREE
+A degree awarded to a graduate student.
+
+GUEST STUDENT
+A Wisconsin resident age 60 and over only taking courses for audit.
+
+HEADCOUNT
+The number of students attending the University of Wisconsin-Madison
+
+JUNIOR STUDENT
+An undergraduate student who has 54 or more progress credits.
+
+LEVEL
+A indicator of a students level of progress towards a degree within an academic program (undergraduates: freshmen, sophomore, junior, or senior, professionals: 1st year, 2nd year,3rd year or 4th year)
+
+MASTERS DEGREE
+The award designating the completion of an academic program requiring one to two years of full-time equivalent preparation beyond the bachelor’s degree.
+
+MSN (*UW-Madison)
+*UW-Madison is assigned to graduate students whose graduate degree was retroactively granted for the previous term while enrolled the current term. As they are not pursuing another degree, but are doing graduate level work they are allowed to continue the current term without a degree program or plan. Without a degree program, they cannot be associated with a specific school or college.
+
+MINNESOTA COMPACT
+A student receiving Minnesota reciprocity fees. All Minnesota compact students are non-residents.
+
+NEW STUDENT
+A degree-seeking graduate or professional students enrolling for the first time in their degree program at UW-Madison and not transferring credits from any other institution.
+
+OFFICIAL CREDITS
+The credits for which a student is enrolled as of the 10th day of instruction excluding certain credits based on funding source and/or type of course (i.e. audit).
+
+PERMANENT HOME ADDRESS
+The non-campus address where a student indicates mail should be sent. Citizens Living Abroad may have a foreign Permanent Home Address.
+
+PROGRAM
+The designation of the student’s curriculum.
+
+PROFESSIONAL STUDENT
+A student who is seeking a degree in law, medicine, pharmacy, or veterinary medicine.
+
+PROFESSIONAL DEGREE
+The award designating the completion of an academic program required for professional practice that includes at least two years of college-level work prior to entering the program
+
+RE-ENTRY STUDENT
+A student who was enrolled at a particular institution, left for one or more terms, and then re-enrolled at the original institution.
+
+RE-ENTRY/TRANSFER STUDENT
+A student who had previously attended an institution, left for one or more semesters, and is returning to the same institution with transferable credits
+
+SECOND YEAR STUDENT
+A student working towards a professional degrees that has successfully completed all first year course work
+
+SENIOR STUDENT
+An undergraduate student who has 86 or more progress credits.
+
+SOPHOMORE STUDENT
+An undergraduate student who has 24 or more progress credits.
+
+THIRD YEAR PROFESSIONAL
+A student working towards a professional degree that has successfully completed all second year course work.
+
+TRANSFER INSTITUTION
+The last institution attended by a transfer or re-entry/transfer student.
+
+TRANSFER STUDENT
+A transfer student is a student who earned credits at a different institution either prior to enrolling at an institution or after leaving an institution for one or more terms and re-enrolling.
+
+UNDERGRADUATE STUDENT
+A student who is seeking a bachelor’s degree.
+
+UNDUPLICATED COUNT (majors)
+A calculation equal to 1 divided by the sum of the student’s majors.

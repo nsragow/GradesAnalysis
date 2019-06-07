@@ -56,8 +56,7 @@ course offering belonged to.
 
 subjects
 
-All subjects reported at UW Madison since 2006.
-Some duplicates may appear to exist, but this is a result of changes
+All subjsy appear to exist, but this is a result of changes
 in subject names or codes (i.e. English has code 350, and 352).
 
 -----
